@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "广东法牛律师事务所",
+  "telephone": "18664921865",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "上步大厦17I",
+    "addressLocality": "深圳市福田区",
+    "addressRegion": "广东省",
+    "postalCode": "518000",
+    "addressCountry": "CN"
+  },
+  "url": "https://www.faniulaw.cn",
+  "areaServed": {
+    "@type": "City",
+    "name": "深圳市"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "法律服务",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "劳动纠纷法律服务"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "刑事辩护法律服务"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "婚姻家事法律服务"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "合同纠纷法律服务"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "工伤赔偿法律服务"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "企业合规法律服务"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "涉外投资法律服务"
+        }
+      }
+    ]
+  }
+}
